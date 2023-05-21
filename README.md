@@ -27,12 +27,12 @@ To run the Xflix application locally, please follow these steps:
 
 1. Clone the repository: 
    ```
-   git clone https://github.com/your-username/xflix.git
+   git clone https://github.com/mohinmakandar/XFLIX-FRONTEND.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd xflix
+   cd XFLIX-FRONTEND
    ```
 
 3. Install dependencies using your preferred package manager:
